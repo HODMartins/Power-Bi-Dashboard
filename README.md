@@ -27,3 +27,24 @@ This project demonstrates the end-to-end process of building a Power BI sales da
 
 ## Snapshot 📸📸
 ![Power BI](https://github.com/HODMartins/Power-Bi-Dashboard/blob/561c8144b7a1f2c3282f91fd8d0e92ddb0eb88d1/images.gif)
+
+## Technologies Used 💻🔧
+MySQL Workbench
+
+Microsoft Power BI
+
+Microsoft Excel
+
+Microsoft Power Query
+
+DAX
+
+## Deliverables 📦🎁 
+The core outcome of this project is an interactive Power BI sales dashboard designed to transform analyzed data into actionable insights. Through engaging visuals and dynamic features, the dashboard highlights key trends, uncovers patterns, and reveals opportunities for optimization and informed decision-making.
+
+
+## Contributions 🤝🌟
+I welcome contributions to enhance this Power BI project. If you have any ideas, bug fixes, or feature suggestions, please feel free to open an issue or submit a pull request. Let's collaborate and make this project even better! 🚀🎉
+
+Thanks for your interest in this project. Enjoy exploring the Power BI Activities Analysis Dashboard! 💖💻
+
