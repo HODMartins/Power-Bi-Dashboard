@@ -24,3 +24,5 @@ This project demonstrates the end-to-end process of building a Power BI sales da
 **Dynamic Filtering** 🔍⚙️ – Enable drill-down and filtering by multiple criteria to support focused analysis.
 
 **Actionable Insights** 💡 – Extract insights and provide recommendations to guide informed business decisions.
+
+
