@@ -25,4 +25,5 @@ This project demonstrates the end-to-end process of building a Power BI sales da
 
 **Actionable Insights** 💡 – Extract insights and provide recommendations to guide informed business decisions.
 
-
+## Snapshot 📸📸
+![Power BI](https://github.com/HODMartins/Power-Bi-Dashboard/blob/561c8144b7a1f2c3282f91fd8d0e92ddb0eb88d1/images.gif)
